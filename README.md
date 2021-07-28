@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Praveen
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Praveen.
+- 👀 I’m interested in data science projects.
+- 🌱 I’m currently learning data science techniques.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 You can reach me lohiyapraveen@gmail.com or +917838876051
 
